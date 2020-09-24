@@ -94,11 +94,11 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1593879177,
+    "wof:lastmodified":1600987977,
     "wof:name":"VS1751 (DTW-SFO)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-07",
+    "wof:repo":"sfomuseum-data-flights-2020-07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

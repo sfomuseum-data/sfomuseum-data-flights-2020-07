@@ -88,11 +88,11 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1596039349,
+    "wof:lastmodified":1600987987,
     "wof:name":"AS3301 (SLC-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-07",
+    "wof:repo":"sfomuseum-data-flights-2020-07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

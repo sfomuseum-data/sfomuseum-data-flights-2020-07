@@ -88,11 +88,11 @@
         1159285591,
         1477881735
     ],
-    "wof:lastmodified":1595866547,
+    "wof:lastmodified":1600988072,
     "wof:name":"WN425 (BUR-SFO)",
     "wof:parent_id":1477881735,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-07",
+    "wof:repo":"sfomuseum-data-flights-2020-07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

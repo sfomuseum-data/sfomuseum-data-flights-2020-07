@@ -88,11 +88,11 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1594743280,
+    "wof:lastmodified":1600987749,
     "wof:name":"AS3398 (SFO-SEA)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-07",
+    "wof:repo":"sfomuseum-data-flights-2020-07",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
