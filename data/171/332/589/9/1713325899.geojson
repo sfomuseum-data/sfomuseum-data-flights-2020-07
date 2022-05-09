@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1595655000,
     "flysfo:timestamp": 1595655000,
     "geom:area": 0,
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000",
-    "geom:latitude": 0,
-    "geom:longitude": 0,
+    "geom:bbox": "-122.370943,37.617990,123.483002,41.639801",
+    "geom:latitude": 39.6288955,
+    "geom:longitude": 0.5560295000000011,
     "iata:airline": "CZ",
     "icao:airline": "CSN",
     "iso:country": "US",
@@ -28,7 +28,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159284165,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102550897,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20200724-D-CSN-5270",
     "sfomuseum:flight_number": [
@@ -54,7 +54,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1595693443,
-    "wof:geomhash": "58fe0ac52aab9ea6af40709b179f7a28",
+    "wof:geomhash": "35b730df29cf47cc0738a78c2847685d",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -90,7 +90,7 @@
       1159284165,
       1477930477
     ],
-    "wof:lastmodified": 1651269051,
+    "wof:lastmodified": 1652124260,
     "wof:name": "CZ5270 (SFO-SHE)",
     "wof:parent_id": 1477930477,
     "wof:placetype": "event",
@@ -100,10 +100,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0,
-    0,
-    0,
-    0
+    -122.370943,
+    37.61799,
+    123.483002,
+    41.639801
   ],
-  "geometry": {"coordinates":[[0,0],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[123.483002,41.639801]],"type":"MultiPoint"}
 }
