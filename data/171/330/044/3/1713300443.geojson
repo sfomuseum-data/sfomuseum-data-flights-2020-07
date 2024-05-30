@@ -99,10 +99,13 @@
       1477881735,
       1159289869
     ],
-    "wof:lastmodified": 1653352473,
+    "wof:lastmodified": 1717031096,
     "wof:name": "WN767 (LAS-SFO)",
     "wof:parent_id": 1729792455,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-07",
     "wof:superseded_by": [],
     "wof:supersedes": [],

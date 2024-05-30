@@ -104,10 +104,13 @@
       1477930451,
       1159289407
     ],
-    "wof:lastmodified": 1653352464,
+    "wof:lastmodified": 1717031100,
     "wof:name": "UA357 (SEA-SFO)",
     "wof:parent_id": 1729792543,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-07",
     "wof:superseded_by": [],
     "wof:supersedes": [],

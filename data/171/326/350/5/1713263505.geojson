@@ -54,10 +54,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1651269110,
+    "wof:lastmodified": 1717031099,
     "wof:name": "AS2354 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-07",
     "wof:superseded_by": [],
     "wof:supersedes": [],

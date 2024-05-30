@@ -104,10 +104,13 @@
       1477930479,
       1159289421
     ],
-    "wof:lastmodified": 1653352464,
+    "wof:lastmodified": 1717031102,
     "wof:name": "HA12 (HNL-SFO)",
     "wof:parent_id": 1729792671,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-07",
     "wof:superseded_by": [],
     "wof:supersedes": [],
